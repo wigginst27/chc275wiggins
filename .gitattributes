@@ -1,9 +1,0 @@
-print("welcomr to calvert hall")
-name = input ("what is you name")
-gradyear =  input ("what year do you graduate")
-standing = input ("what is your class standing")
-email = input ("what is your email")
-print = (" my name is {hael}, my gradyear is {2027}, my stand is {standing}, my email is {email}")
-x = input(10)
-y = input (15)
-z = x + y
