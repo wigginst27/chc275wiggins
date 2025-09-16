@@ -14,3 +14,4 @@ name ="Ty Wiggins"
 print (name)
 print (f"My name is {name}")
 print (f"the sum of x and y is {Sum}")
+print ("Cor.Hicks™")
