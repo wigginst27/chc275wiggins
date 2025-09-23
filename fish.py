@@ -10,5 +10,5 @@ elif option == "salt water":
     print("your a fancy fish parent")
 elif option == "community":
     print("you should get more than one")
-elif:
+else:
     print ("I dont think thats a fish")
